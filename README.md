@@ -62,7 +62,7 @@ The final instalment of the series, picking up from where you've obtained valid 
 
 ---
 
-### 🧅 TOR — Anonymity, Onion Routing & Operational Security
+###  TOR — Anonymity, Onion Routing & Operational Security
 
 > **File:** `Powerpoint_TOR.pptx`
 
@@ -105,5 +105,4 @@ This repository is licensed under the [GNU General Public Licence v3.0](LICENSE)
 
 ## 🔗 Links
 
-- 📺 [AD 101 — YouTube Talk](https://www.youtube.com/watch?v=Ey9sk6PB7gk)
-- 🐙 [GitHub Profile](https://github.com/Mr-Whiskerss)
+- [AD 101 — YouTube Talk](https://www.youtube.com/watch?v=Ey9sk6PB7gk)
